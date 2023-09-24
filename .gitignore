@@ -362,3 +362,4 @@ MigrationBackup/
 ML-For-Beginners.Rproj
 
 .ipynb_checkpoints
+**/*.pkl
